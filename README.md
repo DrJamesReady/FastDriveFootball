@@ -1,9 +1,6 @@
 # FastDriveFootball
 Enhancement utilities to the Fast Drive Football (https://www.fastdrivefootball.com/) cards and dice Game developed by 3dGaming (https://3d6-gaming.store/). The purpose of this repository is to provide tools for the game player and provide enhancements  to add 'immersive flavor' to the game experience.
 
-## Quality Scales
-This .pdf document provides the quality scales used by the game.
-
 ## Team Card Card Maker
 A single-file HTML tool for making printable team cards for the tabletop game Fast Drive Football. Open the file in any modern browser, fill in each team’s card, and print to PDF on card stock. There is nothing to install, no server and no login.
 
