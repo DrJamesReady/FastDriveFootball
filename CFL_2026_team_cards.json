@@ -1,0 +1,699 @@
+{
+  "format": "fdf-team-cards",
+  "version": 1,
+  "exportedAt": "2026-10-10T22:22:53.267Z",
+  "league": "CFL 2026",
+  "logo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjU0IDEyNTQiIHdpZHRoPSIxMjU0IiBoZWlnaHQ9IjEyNTQiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJjaHJvbWUiIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmZmZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC40NSIgc3RvcC1jb2xvcj0iI2YyZjRmOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNTUiIHN0b3AtY29sb3I9IiNiOWJlYzkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZWVmMGY1Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzd29vc2giIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNGI5Y2QzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzJkNDRiOCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmx1ZUdsb3ciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjN2VjMGVlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzJiNmZhOCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIAogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjEyNTQiIGhlaWdodD0iMTI1NCIgZmlsbD0iIzAwMCIvPgoKICA8IS0tIG91dGVyIHN3b29zaCByaW5ncyAtLT4KICA8cGF0aCBkPSJNOTUsNzgwIEM0MCw1MDAgMzMwLDMwMCA3MDAsMjcwIEM5NjAsMjUwIDExNzAsMzMwIDExOTUsNTIwIEMxMTMwLDQwMCA5MzAsMzQwIDcwMCwzNjAgQzQwMCwzODUgMTcwLDUwMCA5NSw3ODAgWiIgZmlsbD0idXJsKCNibHVlR2xvdykiLz4KICA8cGF0aCBkPSJNMTE5MCw1MDAgQzEyMTUsNjQwIDExMzAsNzYwIDEwMTAsODMwIEMxMTEwLDc0MCAxMTUwLDY0MCAxMTkwLDUwMCBaIiBmaWxsPSJ1cmwoI3N3b29zaCkiLz4KICA8cGF0aCBkPSJNNjQwLDMwMCBDODYwLDI2MCAxMDYwLDI5MCAxMTYwLDQzMCBDMTA2MCwzMzAgODYwLDMxMCA2NDAsMzQwIFoiIGZpbGw9InVybCgjY2hyb21lKSIgb3BhY2l0eT0iMC44NSIvPgoKICA8IS0tIGZvb3RiYWxsICh0b3AgYXJjKSAtLT4KICA8cGF0aCBkPSJNMTMwLDkyMCBBNDk3LDMyMCAwIDAgMSAxMTI0LDkyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGI5Y2QzIiBzdHJva2Utd2lkdGg9IjMwIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTMwLDkyMCBBNDk3LDMyMCAwIDAgMSAxMTI0LDkyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjEwIi8+CiAgPHBhdGggZD0iTTI1MCw4OTAgQTM4MCwyODIgMCAwIDEgMTAwNCw4OTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNjaHJvbWUpIiBzdHJva2Utd2lkdGg9IjgiIG9wYWNpdHk9IjAuOCIvPgogIDxnIGZpbGw9IiNmZmYiIHN0cm9rZT0iIzRiOWNkMyIgc3Ryb2tlLXdpZHRoPSI0Ij4KICAgIDxyZWN0IHg9IjU0MSIgeT0iNjM1IiB3aWR0aD0iMjAiIGhlaWdodD0iNjIiIHJ4PSI4IiB0cmFuc2Zvcm09InJvdGF0ZSgtOCA1NTEgNjY2KSIvPgogICAgPHJlY3QgeD0iNTgzIiB5PSI2MjciIHdpZHRoPSIyMCIgaGVpZ2h0PSI3MiIgcng9IjgiIHRyYW5zZm9ybT0icm90YXRlKC00IDU5MyA2NjMpIi8+CiAgICA8cmVjdCB4PSI2MjciIHk9IjYyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9Ijc2IiByeD0iOCIvPgogICAgPHJlY3QgeD0iNjcxIiB5PSI2MjciIHdpZHRoPSIyMCIgaGVpZ2h0PSI3MiIgcng9IjgiIHRyYW5zZm9ybT0icm90YXRlKDQgNjgxIDY2MykiLz4KICAgIDxyZWN0IHg9IjcxMyIgeT0iNjM1IiB3aWR0aD0iMjAiIGhlaWdodD0iNjIiIHJ4PSI4IiB0cmFuc2Zvcm09InJvdGF0ZSg4IDcyMyA2NjYpIi8+CiAgPC9nPgoKICA8IS0tIENhcm9saW5hcyAtLT4KICA8ZyBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDxwYXRoIGQ9Ik0xNzcuMiwyMzEuNCBMMjIwLjAsMTY5LjcgTDMwMS42LDEzMi42IEwzNTIuNiwxMDcuOSBMNDEzLjgsOTUuNiBMNDQ0LjQsMzUuMSBMMTAzOS4xLDQwLjAgTDEwNTEuMywxMTQuMSBMMTA3Ni44LDIwMC41IEwxMDM2LjAsMjMxLjQgTDk3NC44LDI4MC44IEw5MDMuNCwyODAuOCBMODUyLjQsMzQyLjYgTDgyNi45LDM3My40IEw3NjUuNywzNzEuMCBMNjUxLjUsMjU2LjEgTDUzNi4yLDI1My43IEw1MjMuMCwyMTkuMSBMMzc4LjEsMjA2LjcgTDMzNC4zLDIyMS41IEwzMDAuNiwyMzEuNCBaIiBmaWxsPSIjNGI5Y2QzIiBzdHJva2U9IiM0YjljZDMiIHN0cm9rZS13aWR0aD0iMjIiLz4KICAgIDxwYXRoIGQ9Ik0xNzcuMiwyMzEuNCBMMjIwLjAsMTY5LjcgTDMwMS42LDEzMi42IEwzNTIuNiwxMDcuOSBMNDEzLjgsOTUuNiBMNDQ0LjQsMzUuMSBMMTAzOS4xLDQwLjAgTDEwNTEuMywxMTQuMSBMMTA3Ni44LDIwMC41IEwxMDM2LjAsMjMxLjQgTDk3NC44LDI4MC44IEw5MDMuNCwyODAuOCBMODUyLjQsMzQyLjYgTDgyNi45LDM3My40IEw3NjUuNywzNzEuMCBMNjUxLjUsMjU2LjEgTDUzNi4yLDI1My43IEw1MjMuMCwyMTkuMSBMMzc4LjEsMjA2LjcgTDMzNC4zLDIyMS41IEwzMDAuNiwyMzEuNCBaIiBmaWxsPSIjMDAwIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMTAiLz4KICAgIDxwYXRoIGQ9Ik0xNzcuMiwyMzEuNCBMMjIwLjAsMTY5LjcgTDMwMS42LDEzMi42IEwzNTIuNiwxMDcuOSBMNDEzLjgsOTUuNiBMNDQ0LjQsMzUuMSBMMTAzOS4xLDQwLjAgTDEwNTEuMywxMTQuMSBMMTA3Ni44LDIwMC41IEwxMDM2LjAsMjMxLjQgTDk3NC44LDI4MC44IEw5MDMuNCwyODAuOCBMODUyLjQsMzQyLjYgTDgyNi45LDM3My40IEw3NjUuNywzNzEuMCBMNjUxLjUsMjU2LjEgTDUzNi4yLDI1My43IEw1MjMuMCwyMTkuMSBMMzc4LjEsMjA2LjcgTDMzNC4zLDIyMS41IEwzMDAuNiwyMzEuNCBaIiBmaWxsPSIjZmZmIi8+CiAgICA8cGF0aCB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDE0KSIgZD0iTTMwMC42LDI0My40IEwzMzQuMywyMzMuNSBMMzc4LjEsMjE4LjcgTDUyMy4wLDIzMS4xIEw1MzYuMiwyNjUuNyBMNjUxLjUsMjY4LjEgTDc2NS43LDM4My4wIEw3MzAuMCw0MTAuMSBMNjk5LjQsNDUzLjQgTDY1OC42LDQ5MC40IEw1OTcuNCw1MzkuOCBMNTU2LjYsNTc2LjkgTDUyOC4xLDYwNy44IEw1MDUuNiw1NDYuMCBMNDY5LjksNDk2LjYgTDQyNC4wLDQ0Ny4yIEwzOTMuNCw0MTYuMyBMMzUyLjYsMzczLjEgTDMwMS42LDMwNS4yIEwyNzYuMSwyODAuNSBaIiBmaWxsPSIjMmQ0NGI4IiBzdHJva2U9IiMyZDQ0YjgiIHN0cm9rZS13aWR0aD0iMjIiLz4KICAgIDxwYXRoIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMTQpIiBkPSJNMzAwLjYsMjQzLjQgTDMzNC4zLDIzMy41IEwzNzguMSwyMTguNyBMNTIzLjAsMjMxLjEgTDUzNi4yLDI2NS43IEw2NTEuNSwyNjguMSBMNzY1LjcsMzgzLjAgTDczMC4wLDQxMC4xIEw2OTkuNCw0NTMuNCBMNjU4LjYsNDkwLjQgTDU5Ny40LDUzOS44IEw1NTYuNiw1NzYuOSBMNTI4LjEsNjA3LjggTDUwNS42LDU0Ni4wIEw0NjkuOSw0OTYuNiBMNDI0LjAsNDQ3LjIgTDM5My40LDQxNi4zIEwzNTIuNiwzNzMuMSBMMzAxLjYsMzA1LjIgTDI3Ni4xLDI4MC41IFoiIGZpbGw9IiMwMDAiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIxMCIvPgogICAgPHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwxNCkiIGQ9Ik0zMDAuNiwyNDMuNCBMMzM0LjMsMjMzLjUgTDM3OC4xLDIxOC43IEw1MjMuMCwyMzEuMSBMNTM2LjIsMjY1LjcgTDY1MS41LDI2OC4xIEw3NjUuNywzODMuMCBMNzMwLjAsNDEwLjEgTDY5OS40LDQ1My40IEw2NTguNiw0OTAuNCBMNTk3LjQsNTM5LjggTDU1Ni42LDU3Ni45IEw1MjguMSw2MDcuOCBMNTA1LjYsNTQ2LjAgTDQ2OS45LDQ5Ni42IEw0MjQuMCw0NDcuMiBMMzkzLjQsNDE2LjMgTDM1Mi42LDM3My4xIEwzMDEuNiwzMDUuMiBMMjc2LjEsMjgwLjUgWiIgZmlsbD0iI2ZmZiIvPgogICAgPGNpcmNsZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDE0KSIgY3g9IjYyNy4wIiBjeT0iNTEyLjciIHI9IjE4IiBmaWxsPSJub25lIiBzdHJva2U9IiMyZDQ0YjgiIHN0cm9rZS13aWR0aD0iNCIvPgogICAgPHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwxNCkiIGQ9Ik02NDMuMCw1MDIuNyBMNzgwLDQ3MCBNNjQzLjAsNTI0LjcgTDc4MCw1NDMiIHN0cm9rZT0iIzJkNDRiOCIgc3Ryb2tlLXdpZHRoPSI0IiBmaWxsPSJub25lIi8+CiAgICA8Y2lyY2xlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMTQpIiBjeD0iODUwIiBjeT0iNTA1IiByPSI3OCIgZmlsbD0iI2ZmZiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjE2Ii8+CiAgICA8Y2lyY2xlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMTQpIiBjeD0iODUwIiBjeT0iNTA1IiByPSI3OCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMmQ0NGI4IiBzdHJva2Utd2lkdGg9IjkiLz4KICAgIDxjaXJjbGUgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwxNCkiIGN4PSI4MzcuOCIgY3k9IjUzNC42IiByPSI5IiBmaWxsPSIjMWIyYTk2IiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMy41Ii8+CiAgICA8Y2lyY2xlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMTQpIiBjeD0iODEzLjMiIGN5PSI0ODIuOCIgcj0iOSIgZmlsbD0iIzFiMmE5NiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjMuNSIvPgogICAgPGNpcmNsZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDE0KSIgY3g9Ijg5OS4wIiBjeT0iNDk3LjYiIHI9IjkiIGZpbGw9IiMxYjJhOTYiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KICAgIDxjaXJjbGUgY3g9IjUzMi4xIiBjeT0iMjAzLjAiIHI9IjkiIGZpbGw9IiM0YjljZDMiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KICAgIDxjaXJjbGUgY3g9Ijc1Ni41IiBjeT0iMTM1LjEiIHI9IjkiIGZpbGw9IiM0YjljZDMiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KICAgIDxjaXJjbGUgY3g9IjYzOS4yIiBjeT0iOTkuMyIgcj0iOSIgZmlsbD0iIzRiOWNkMyIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjMuNSIvPgogICAgPGNpcmNsZSBjeD0iNzMwLjAiIGN5PSIxMDkuMiIgcj0iOSIgZmlsbD0iIzRiOWNkMyIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjMuNSIvPgogICAgPGNpcmNsZSBjeD0iNTkzLjMiIGN5PSI5NS42IiByPSI5IiBmaWxsPSIjNGI5Y2QzIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMy41Ii8+CiAgICA8Y2lyY2xlIGN4PSI3MzIuMSIgY3k9IjIyNS4yIiByPSI5IiBmaWxsPSIjNGI5Y2QzIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMy41Ii8+CiAgICA8Y2lyY2xlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMTQpIiBjeD0iNjI1LjAiIGN5PSI1MTcuNiIgcj0iMyIgZmlsbD0iIzFiMmE5NiIvPgogICAgPGNpcmNsZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDE0KSIgY3g9IjUxMi44IiBjeT0iMzY2LjkiIHI9IjkiIGZpbGw9IiMxYjJhOTYiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KICAgIDxjaXJjbGUgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwxNCkiIGN4PSI2MjAuOSIgY3k9IjUwOC45IiByPSIzIiBmaWxsPSIjMWIyYTk2Ii8+CiAgICA8Y2lyY2xlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMTQpIiBjeD0iNjM1LjIiIGN5PSI1MTEuNCIgcj0iMyIgZmlsbD0iIzFiMmE5NiIvPgogICAgPGNpcmNsZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDE0KSIgY3g9IjUxMi44IiBjeT0iMjUzLjMiIHI9IjkiIGZpbGw9IiMxYjJhOTYiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KICAgIDxjaXJjbGUgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwxNCkiIGN4PSIzNzMuMCIgY3k9IjI2MS45IiByPSI5IiBmaWxsPSIjMWIyYTk2IiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMy41Ii8+CiAgPC9nPgoKICA8IS0tIENGTCBsZXR0ZXJpbmcgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjI3LDEwMTApIHNrZXdYKC0xNCkiPgogICAgPHRleHQgeD0iMCIgeT0iMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkltcGFjdCwgJ0FyaWFsIEJsYWNrJywgJ0RlamFWdSBTYW5zJywgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIzMDAiIGxldHRlci1zcGFjaW5nPSIxNCIKICAgICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRiOWNkMyIgc3Ryb2tlLXdpZHRoPSI0NiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+Q0ZMPC90ZXh0PgogICAgPHRleHQgeD0iMCIgeT0iMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkltcGFjdCwgJ0FyaWFsIEJsYWNrJywgJ0RlamFWdSBTYW5zJywgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIzMDAiIGxldHRlci1zcGFjaW5nPSIxNCIKICAgICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLXdpZHRoPSIyNiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+Q0ZMPC90ZXh0PgogICAgPHRleHQgeD0iMCIgeT0iMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkltcGFjdCwgJ0FyaWFsIEJsYWNrJywgJ0RlamFWdSBTYW5zJywgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIzMDAiIGxldHRlci1zcGFjaW5nPSIxNCIKICAgICAgICAgIGZpbGw9InVybCgjY2hyb21lKSIgc3Ryb2tlPSIjNGI5Y2QzIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPkNGTDwvdGV4dD4KICA8L2c+CgogIDwhLS0gbG93ZXIgc3dvb3NoZXMgLS0+CiAgPHBhdGggZD0iTTEyMCwxMDc1IEM0MjAsMTAzNSA4ODAsMTAzMCAxMTYwLDEwMjAgTDExNjAsMTA0MCBDODgwLDEwNTUgNDQwLDEwNzAgMTUwLDExMTAgWiIgZmlsbD0idXJsKCNibHVlR2xvdykiLz4KICA8cGF0aCBkPSJNMjMwLDExMzUgQzQyMCwxMDk1IDY0MCwxMDg1IDgyMCwxMDgyIEM2NDAsMTEwMCA0NDAsMTEyMCAyNjAsMTE2MCBaIiBmaWxsPSJ1cmwoI2Nocm9tZSkiLz4KICA8cGF0aCBkPSJNNTIwLDExODUgQzc2MCwxMTIwIDk2MCwxMTAwIDExMDAsMTEwMCBDOTYwLDExMjUgNzgwLDExNTAgNTYwLDEyMDAgWiIgZmlsbD0idXJsKCNzd29vc2gpIi8+Cjwvc3ZnPgo=",
+  "sheets": [
+    [
+      {
+        "name": "Charlotte",
+        "nameColor": "#0085ca",
+        "nameRGB": {
+          "r": 0,
+          "g": 133,
+          "b": 202
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "PROLIFIC",
+          "DYNAMIC•",
+          "SECURE•",
+          "DISCIPLINED",
+          "INEFFICIENT",
+          "",
+          ""
+        ],
+        "def": [
+          "MILD•",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-61",
+        "xp": "11-63",
+        "foGrade": "D",
+        "hcGrade": "B",
+        "own1": "",
+        "own2": "SELFISH"
+      },
+      {
+        "name": "Raleigh",
+        "nameColor": "#c8102e",
+        "nameRGB": {
+          "r": 200,
+          "g": 16,
+          "b": 46
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "INEPT",
+          "SOFT",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-53",
+        "xp": "11-64",
+        "foGrade": "C",
+        "hcGrade": "C",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "Greensboro",
+        "nameColor": "#006633",
+        "nameRGB": {
+          "r": 0,
+          "g": 102,
+          "b": 51
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "ERRATIC•",
+          "CLUMSY",
+          "EFFICIENT",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "DISCIPLINED",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "ELECTRIC•",
+        "fg": "11-61",
+        "xp": "11-62",
+        "foGrade": "A",
+        "hcGrade": "A",
+        "own1": "MEDDLING",
+        "own2": "SELFISH"
+      },
+      {
+        "name": "Durham",
+        "nameColor": "#001489",
+        "nameRGB": {
+          "r": 0,
+          "g": 20,
+          "b": 137
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "UNDISCIPLINED•",
+          "INEFFICIENT•",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "MEEK•",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-55",
+        "xp": "11-62",
+        "foGrade": "D",
+        "hcGrade": "B",
+        "own1": "SAVVY",
+        "own2": ""
+      },
+      {
+        "name": "Winston-Salem",
+        "nameColor": "#ffcc00",
+        "nameRGB": {
+          "r": 255,
+          "g": 204,
+          "b": 0
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "EFFICIENT•",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "UNDISCIPLINED",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-51",
+        "xp": "11-64",
+        "foGrade": "C",
+        "hcGrade": "B",
+        "own1": "",
+        "own2": "SELFISH"
+      },
+      {
+        "name": "Fayetteville",
+        "nameColor": "#003399",
+        "nameRGB": {
+          "r": 0,
+          "g": 51,
+          "b": 153
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "DYNAMIC•",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "STAUNCH•",
+          "ACTIVE•",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-65",
+        "xp": "11-63",
+        "foGrade": "B",
+        "hcGrade": "B",
+        "own1": "SAVVY",
+        "own2": ""
+      }
+    ],
+    [
+      {
+        "name": "Cary",
+        "nameColor": "#008000",
+        "nameRGB": {
+          "r": 0,
+          "g": 128,
+          "b": 0
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "DULL•",
+          "POROUS",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "MEEK",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-64",
+        "xp": "11-65",
+        "foGrade": "C",
+        "hcGrade": "C",
+        "own1": "MEDDLING",
+        "own2": ""
+      },
+      {
+        "name": "Wilmington",
+        "nameColor": "#002654",
+        "nameRGB": {
+          "r": 0,
+          "g": 38,
+          "b": 84
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "RELIABLE",
+          "SECURE",
+          "EFFICIENT",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "PASSIVE•",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-61",
+        "xp": "11-56",
+        "foGrade": "B",
+        "hcGrade": "C",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "Charleston",
+        "nameColor": "#002244",
+        "nameRGB": {
+          "r": 0,
+          "g": 34,
+          "b": 68
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "CLUMSY•",
+          "UNDISCIPLINED",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-61",
+        "xp": "11-64",
+        "foGrade": "A",
+        "hcGrade": "C",
+        "own1": "",
+        "own2": "SELFISH"
+      },
+      {
+        "name": "Columbia",
+        "nameColor": "#860038",
+        "nameRGB": {
+          "r": 134,
+          "g": 0,
+          "b": 56
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "DISCIPLINED•",
+          "INEFFICIENT",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "STAUNCH",
+          "STIFF",
+          "PUNISHING",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-54",
+        "xp": "11-61",
+        "foGrade": "A",
+        "hcGrade": "D",
+        "own1": "MEDDLING",
+        "own2": ""
+      },
+      {
+        "name": "North Charleston",
+        "nameColor": "#008000",
+        "nameRGB": {
+          "r": 0,
+          "g": 128,
+          "b": 0
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "SHAKY",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "STIFF•",
+          "PUNISHING•",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-53",
+        "xp": "11-62",
+        "foGrade": "B",
+        "hcGrade": "C",
+        "own1": "SAVVY",
+        "own2": "LOYAL"
+      },
+      {
+        "name": "Mount Pleasant",
+        "nameColor": "#003366",
+        "nameRGB": {
+          "r": 0,
+          "g": 51,
+          "b": 102
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "INEPT•",
+          "SOFT•",
+          "AGGRESSIVE•",
+          "ACTIVE",
+          "DISCIPLINED•",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-56",
+        "xp": "11-63",
+        "foGrade": "D",
+        "hcGrade": "C",
+        "own1": "",
+        "own2": "LOYAL"
+      }
+    ],
+    [
+      {
+        "name": "Rock Hill",
+        "nameColor": "#860038",
+        "nameRGB": {
+          "r": 134,
+          "g": 0,
+          "b": 56
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "DULL",
+          "ERRATIC",
+          "RELIABLE•",
+          "EFFICIENT•",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "AGGRESSIVE",
+          "UNDISCIPLINED•",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-53",
+        "xp": "11-62",
+        "foGrade": "B",
+        "hcGrade": "C",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "Greenville",
+        "nameColor": "#550099",
+        "nameRGB": {
+          "r": 85,
+          "g": 0,
+          "b": 153
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "SOLID•",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "ELECTRIC•",
+        "fg": "11-63",
+        "xp": "11-66",
+        "foGrade": "A",
+        "hcGrade": "B",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "Summerville",
+        "nameColor": "#008000",
+        "nameRGB": {
+          "r": 0,
+          "g": 128,
+          "b": 0
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "POROUS•",
+          "SHAKY•",
+          "INEFFICIENT•",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "MILD•",
+          "PASSIVE",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "ELECTRIC•",
+        "pr": "",
+        "fg": "11-54",
+        "xp": "11-62",
+        "foGrade": "D",
+        "hcGrade": "D",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "Goose Creek",
+        "nameColor": "#002654",
+        "nameRGB": {
+          "r": 0,
+          "g": 38,
+          "b": 84
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "PROLIFIC•",
+          "SOLID•",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "11-65",
+        "xp": "11-63",
+        "foGrade": "A",
+        "hcGrade": "B",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "",
+        "nameColor": "#000000",
+        "nameRGB": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "",
+        "xp": "",
+        "foGrade": "",
+        "hcGrade": "",
+        "own1": "",
+        "own2": ""
+      },
+      {
+        "name": "",
+        "nameColor": "#000000",
+        "nameRGB": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "coach": "",
+        "season": "CFL 2026",
+        "note": "",
+        "offTag": "",
+        "off": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "def": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "kr": "",
+        "pr": "",
+        "fg": "",
+        "xp": "",
+        "foGrade": "",
+        "hcGrade": "",
+        "own1": "",
+        "own2": ""
+      }
+    ]
+  ]
+}
