@@ -11,3 +11,5 @@ This .html file allows a player of the Professional version of **Fast Drive Foot
 - Select, via pull-down menu, offensive and defensive qualities
 - Enter field goal (FG) and extra-point (XP) ranges
 - Add qualities related to the Commissioner Expansion 1.5
+
+An example .json file (CFL_2026_team_cards.json) is provided. The .json file contains 16 teams from a fictional Carolina Football League (CFL). This file can be imported into the .html utility. Also availble is the .pdf output (FDF-CFL-2026 Teams.pdf) from the utility, create through the Print/Save As PDF option in Windows.
