@@ -1,5 +1,5 @@
 # FastDriveFootball
-Enhancement utilities to the Fast Drive Football (https://www.fastdrivefootball.com/) cards and dice Game developed by 3dGaming (https://3d6-gaming.store/). The purpose of this repository is to provide tools for the game player and provide enhancements  to add 'immersive flavor' to the game experience.
+Enhancement utilities to the Fast Drive Football (https://www.fastdrivefootball.com/) cards and dice game developed by Al Wilson and sold by 3dGaming (https://3d6-gaming.store/). The purpose of this repository is to provide tools for the game player and provide enhancements  to add 'immersive flavor' to the game experience.
 
 ## Team Card Card Maker
 A single-file HTML tool for making printable team cards for the tabletop game Fast Drive Football. Open the file in any modern browser, fill in each team’s card, and print to PDF on card stock. There is nothing to install, no server and no login.
@@ -13,10 +13,8 @@ _League branding_. Set the league/season label once and it appears on every card
 _Save and share leagues_. Work auto-saves in your browser. Export the whole league, including the logo, as JSON and load it later or share it. Older files load unchanged.
 
 ### How to use it
-Download FDF_Team_Card_Maker_1_013.html and open it in a browser.
-Set the league/season label and, if you like, add a logo.
-Fill in each team’s card with the pull-down menus.
-Print: Ctrl/⌘+P → Save as PDF → Landscape → Letter → Margins None → Scale 100%.
+Download FDF_Team_Card_Maker_1_013.html and open it in a browser. Set the league/season label and, if you like, add a logo.
+Fill in each team’s card with the pull-down menus. Print: Ctrl/⌘+P → Save as PDF → Landscape → Letter → Margins None → Scale 100%. (Note: See the 16-team fictitious Carolina Football League [CFL] and their logo for demo purposes).
 
 ## Team Matcher
 A single-file HTML helper for Fast Drive Football players. Describe a team's strengths and weaknesses using the game's quality tags, and the tool ranks every NFL team-season from 1999 to 2025 by how closely it fits that profile. No install, no server, no build step: download `fdf_team_matcher_v1_1.html` and open it in a browser.
@@ -34,6 +32,7 @@ A single-file HTML helper for Fast Drive Football players. Describe a team's str
 - Load a `.json` file exported from the Team Card Maker.
 - Get a league list with the league name and each team's listed qualities, plus its
   closest historical matches (1, 3 or 5 per team).
+  (Note: See the 16-team fictitious Carolina Football League [CFL] for demo purposes).
 
 ### How matching works
 
