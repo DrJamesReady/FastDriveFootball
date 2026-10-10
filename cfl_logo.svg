@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" width="1254" height="1254">
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#f2f4f8"/>
+      <stop offset="0.55" stop-color="#b9bec9"/>
+      <stop offset="1" stop-color="#eef0f5"/>
+    </linearGradient>
+    <linearGradient id="swoosh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4b9cd3"/>
+      <stop offset="1" stop-color="#2d44b8"/>
+    </linearGradient>
+    <linearGradient id="blueGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7ec0ee"/>
+      <stop offset="1" stop-color="#2b6fa8"/>
+    </linearGradient>
+    
+  </defs>
+
+  <rect width="1254" height="1254" fill="#000"/>
+
+  <!-- outer swoosh rings -->
+  <path d="M95,780 C40,500 330,300 700,270 C960,250 1170,330 1195,520 C1130,400 930,340 700,360 C400,385 170,500 95,780 Z" fill="url(#blueGlow)"/>
+  <path d="M1190,500 C1215,640 1130,760 1010,830 C1110,740 1150,640 1190,500 Z" fill="url(#swoosh)"/>
+  <path d="M640,300 C860,260 1060,290 1160,430 C1060,330 860,310 640,340 Z" fill="url(#chrome)" opacity="0.85"/>
+
+  <!-- football (top arc) -->
+  <path d="M130,920 A497,320 0 0 1 1124,920" fill="none" stroke="#4b9cd3" stroke-width="30" stroke-linecap="round"/>
+  <path d="M130,920 A497,320 0 0 1 1124,920" fill="none" stroke="#000" stroke-width="10"/>
+  <path d="M250,890 A380,282 0 0 1 1004,890" fill="none" stroke="url(#chrome)" stroke-width="8" opacity="0.8"/>
+  <g fill="#fff" stroke="#4b9cd3" stroke-width="4">
+    <rect x="541" y="635" width="20" height="62" rx="8" transform="rotate(-8 551 666)"/>
+    <rect x="583" y="627" width="20" height="72" rx="8" transform="rotate(-4 593 663)"/>
+    <rect x="627" y="624" width="20" height="76" rx="8"/>
+    <rect x="671" y="627" width="20" height="72" rx="8" transform="rotate(4 681 663)"/>
+    <rect x="713" y="635" width="20" height="62" rx="8" transform="rotate(8 723 666)"/>
+  </g>
+
+  <!-- Carolinas -->
+  <g stroke-linejoin="round">
+    <path d="M177.2,231.4 L220.0,169.7 L301.6,132.6 L352.6,107.9 L413.8,95.6 L444.4,35.1 L1039.1,40.0 L1051.3,114.1 L1076.8,200.5 L1036.0,231.4 L974.8,280.8 L903.4,280.8 L852.4,342.6 L826.9,373.4 L765.7,371.0 L651.5,256.1 L536.2,253.7 L523.0,219.1 L378.1,206.7 L334.3,221.5 L300.6,231.4 Z" fill="#4b9cd3" stroke="#4b9cd3" stroke-width="22"/>
+    <path d="M177.2,231.4 L220.0,169.7 L301.6,132.6 L352.6,107.9 L413.8,95.6 L444.4,35.1 L1039.1,40.0 L1051.3,114.1 L1076.8,200.5 L1036.0,231.4 L974.8,280.8 L903.4,280.8 L852.4,342.6 L826.9,373.4 L765.7,371.0 L651.5,256.1 L536.2,253.7 L523.0,219.1 L378.1,206.7 L334.3,221.5 L300.6,231.4 Z" fill="#000" stroke="#000" stroke-width="10"/>
+    <path d="M177.2,231.4 L220.0,169.7 L301.6,132.6 L352.6,107.9 L413.8,95.6 L444.4,35.1 L1039.1,40.0 L1051.3,114.1 L1076.8,200.5 L1036.0,231.4 L974.8,280.8 L903.4,280.8 L852.4,342.6 L826.9,373.4 L765.7,371.0 L651.5,256.1 L536.2,253.7 L523.0,219.1 L378.1,206.7 L334.3,221.5 L300.6,231.4 Z" fill="#fff"/>
+    <path transform="translate(0,14)" d="M300.6,243.4 L334.3,233.5 L378.1,218.7 L523.0,231.1 L536.2,265.7 L651.5,268.1 L765.7,383.0 L730.0,410.1 L699.4,453.4 L658.6,490.4 L597.4,539.8 L556.6,576.9 L528.1,607.8 L505.6,546.0 L469.9,496.6 L424.0,447.2 L393.4,416.3 L352.6,373.1 L301.6,305.2 L276.1,280.5 Z" fill="#2d44b8" stroke="#2d44b8" stroke-width="22"/>
+    <path transform="translate(0,14)" d="M300.6,243.4 L334.3,233.5 L378.1,218.7 L523.0,231.1 L536.2,265.7 L651.5,268.1 L765.7,383.0 L730.0,410.1 L699.4,453.4 L658.6,490.4 L597.4,539.8 L556.6,576.9 L528.1,607.8 L505.6,546.0 L469.9,496.6 L424.0,447.2 L393.4,416.3 L352.6,373.1 L301.6,305.2 L276.1,280.5 Z" fill="#000" stroke="#000" stroke-width="10"/>
+    <path transform="translate(0,14)" d="M300.6,243.4 L334.3,233.5 L378.1,218.7 L523.0,231.1 L536.2,265.7 L651.5,268.1 L765.7,383.0 L730.0,410.1 L699.4,453.4 L658.6,490.4 L597.4,539.8 L556.6,576.9 L528.1,607.8 L505.6,546.0 L469.9,496.6 L424.0,447.2 L393.4,416.3 L352.6,373.1 L301.6,305.2 L276.1,280.5 Z" fill="#fff"/>
+    <circle transform="translate(0,14)" cx="627.0" cy="512.7" r="18" fill="none" stroke="#2d44b8" stroke-width="4"/>
+    <path transform="translate(0,14)" d="M643.0,502.7 L780,470 M643.0,524.7 L780,543" stroke="#2d44b8" stroke-width="4" fill="none"/>
+    <circle transform="translate(0,14)" cx="850" cy="505" r="78" fill="#fff" stroke="#000" stroke-width="16"/>
+    <circle transform="translate(0,14)" cx="850" cy="505" r="78" fill="none" stroke="#2d44b8" stroke-width="9"/>
+    <circle transform="translate(0,14)" cx="837.8" cy="534.6" r="9" fill="#1b2a96" stroke="#000" stroke-width="3.5"/>
+    <circle transform="translate(0,14)" cx="813.3" cy="482.8" r="9" fill="#1b2a96" stroke="#000" stroke-width="3.5"/>
+    <circle transform="translate(0,14)" cx="899.0" cy="497.6" r="9" fill="#1b2a96" stroke="#000" stroke-width="3.5"/>
+    <circle cx="532.1" cy="203.0" r="9" fill="#4b9cd3" stroke="#000" stroke-width="3.5"/>
+    <circle cx="756.5" cy="135.1" r="9" fill="#4b9cd3" stroke="#000" stroke-width="3.5"/>
+    <circle cx="639.2" cy="99.3" r="9" fill="#4b9cd3" stroke="#000" stroke-width="3.5"/>
+    <circle cx="730.0" cy="109.2" r="9" fill="#4b9cd3" stroke="#000" stroke-width="3.5"/>
+    <circle cx="593.3" cy="95.6" r="9" fill="#4b9cd3" stroke="#000" stroke-width="3.5"/>
+    <circle cx="732.1" cy="225.2" r="9" fill="#4b9cd3" stroke="#000" stroke-width="3.5"/>
+    <circle transform="translate(0,14)" cx="625.0" cy="517.6" r="3" fill="#1b2a96"/>
+    <circle transform="translate(0,14)" cx="512.8" cy="366.9" r="9" fill="#1b2a96" stroke="#000" stroke-width="3.5"/>
+    <circle transform="translate(0,14)" cx="620.9" cy="508.9" r="3" fill="#1b2a96"/>
+    <circle transform="translate(0,14)" cx="635.2" cy="511.4" r="3" fill="#1b2a96"/>
+    <circle transform="translate(0,14)" cx="512.8" cy="253.3" r="9" fill="#1b2a96" stroke="#000" stroke-width="3.5"/>
+    <circle transform="translate(0,14)" cx="373.0" cy="261.9" r="9" fill="#1b2a96" stroke="#000" stroke-width="3.5"/>
+  </g>
+
+  <!-- CFL lettering -->
+  <g transform="translate(627,1010) skewX(-14)">
+    <text x="0" y="0" text-anchor="middle" font-family="Impact, 'Arial Black', 'DejaVu Sans', sans-serif" font-weight="900" font-size="300" letter-spacing="14"
+          fill="none" stroke="#4b9cd3" stroke-width="46" stroke-linejoin="round">CFL</text>
+    <text x="0" y="0" text-anchor="middle" font-family="Impact, 'Arial Black', 'DejaVu Sans', sans-serif" font-weight="900" font-size="300" letter-spacing="14"
+          fill="none" stroke="#000" stroke-width="26" stroke-linejoin="round">CFL</text>
+    <text x="0" y="0" text-anchor="middle" font-family="Impact, 'Arial Black', 'DejaVu Sans', sans-serif" font-weight="900" font-size="300" letter-spacing="14"
+          fill="url(#chrome)" stroke="#4b9cd3" stroke-width="5" stroke-linejoin="round">CFL</text>
+  </g>
+
+  <!-- lower swooshes -->
+  <path d="M120,1075 C420,1035 880,1030 1160,1020 L1160,1040 C880,1055 440,1070 150,1110 Z" fill="url(#blueGlow)"/>
+  <path d="M230,1135 C420,1095 640,1085 820,1082 C640,1100 440,1120 260,1160 Z" fill="url(#chrome)"/>
+  <path d="M520,1185 C760,1120 960,1100 1100,1100 C960,1125 780,1150 560,1200 Z" fill="url(#swoosh)"/>
+</svg>
