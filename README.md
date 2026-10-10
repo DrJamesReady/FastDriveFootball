@@ -1,8 +1,10 @@
 # FastDriveFootball
-Enhancement utilities to the Fast Drive Football Cards and Dice Game developed by 3dGaming, LLC. The purpose of these enhancements is to add 'immersive flavor' to the game experience while providing tools for the game player to create team cards.
+Enhancement utilities to the Fast Drive Football (https://www.fastdrivefootball.com/) cards and dice Game developed by 3dGaming (https://3d6-gaming.store/). The purpose of this repository is to provide tools for the game player and provide enhancements  to add 'immersive flavor' to the game experience.
+
+## Quality Scales
+This .pdf document provides the quality scales used by the game.
 
 ## Team Card Card Maker
-
 This .html file allows a player of the Professional version of **Fast Drive Football** to - 
 - Enter league and season information
 - Enter team information, and adjust colors of team name using RGB indicators
