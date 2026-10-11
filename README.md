@@ -14,7 +14,7 @@ _Save and share leagues_. Work auto-saves in your browser. Export the whole leag
 
 ### How to use it
 Download `FDF_Team_Card_Maker_1_013.html` and open it in a browser. Set the league/season label and, if you like, add a logo.
-Fill in each team’s card with the pull-down menus. Print: Ctrl/⌘+P → Save as PDF → Landscape → Letter → Margins None → Scale 100%. (Note: See the 16-team fictitious Carolina Football League [CFL] and their logo for demo purposes).
+Fill in each team’s card with the pull-down menus. Print: Ctrl/⌘+P → Save as PDF → Landscape → Letter → Margins None → Scale 100%. (Note: See the 16-team fictional Carolina Football League data file [`CFL_2026_team_cards.json`] and their logo for demo purposes. Also included is .pdf version of the cards).
 
 ## Team Matcher
 A single-file HTML helper for Fast Drive Football players. Describe a team's strengths and weaknesses using the game's quality tags, and the tool ranks every NFL team-season from 1999 to 2025 by how closely it fits that profile. No install, no server, no build step: download `fdf_team_matcher_v1_1.html` and open it in a browser.
