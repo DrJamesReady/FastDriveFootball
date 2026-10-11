@@ -13,7 +13,7 @@ _League branding_. Set the league/season label once and it appears on every card
 _Save and share leagues_. Work auto-saves in your browser. Export the whole league, including the logo, as JSON and load it later or share it. Older files load unchanged.
 
 ### How to use it
-Download FDF_Team_Card_Maker_1_013.html and open it in a browser. Set the league/season label and, if you like, add a logo.
+Download `FDF_Team_Card_Maker_1_013.html` and open it in a browser. Set the league/season label and, if you like, add a logo.
 Fill in each team’s card with the pull-down menus. Print: Ctrl/⌘+P → Save as PDF → Landscape → Letter → Margins None → Scale 100%. (Note: See the 16-team fictitious Carolina Football League [CFL] and their logo for demo purposes).
 
 ## Team Matcher
